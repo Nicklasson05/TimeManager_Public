@@ -1,17 +1,20 @@
 # TimeManager_Public
-A time tracking application that is designed around GitLabs time tacking system with issues
+A time tracking application that is designed around GitLabs time tacking system with issues:
+
 Programed with Go ( this repotitory holds the Source code ) 
 First version(V1.0) is out for testing purposes
 
 PS
 Don't be afraid of giving feedback and report bugs 
 
-IMPORTANT INFORMATION
+IMPORTANT INFORMATION:
+
 In the options menu you enter your own API key from gitlab
 Then enter you project ID in the same menu to the project you want the application to work with 
 And don't forget to save
 
-LOGNING INSTRUKTIONS 
+LOGNING INSTRUKTIONS:
+
 Play button:
   Loggs when you arrive at work for exampel, and should always be pressed when starting the application on a new day 
 
