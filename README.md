@@ -30,7 +30,8 @@ Stop Button:
   and should be used when you end you'r shift to register how long you have worked and other stats 
   Is also lockes you from using the logg buttons
 
-TO UPLOAD YOU TIMES TO GITLAB 
+TO UPLOAD YOU TIMES TO GITLAB:
+
   its realy simpel to register your work time 
   1. first step is to check in the dates in the top right that you want to upload
   2. then navigate to the send manu in the top left 
