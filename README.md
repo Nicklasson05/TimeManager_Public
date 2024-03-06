@@ -2,7 +2,7 @@
 A time tracking application that is designed around GitLabs time tacking system with issues:
 
 Programed with Go ( this repotitory holds the Source code ) 
-First version(V1.0) is out for testing purposes
+Second version(V2.5) is out for testing purposes
 
 PS
 Don't be afraid of giving feedback and report bugs 
@@ -10,8 +10,7 @@ Don't be afraid of giving feedback and report bugs
 IMPORTANT INFORMATION:
 
 In the options menu you enter your own API key from gitlab
-Then enter you project ID in the same menu to the project you want the application to work with 
-And don't forget to save
+don't forget to save
 
 LOGNING INSTRUKTIONS:
 
