@@ -2,7 +2,7 @@
 A time tracking application that is designed around GitLabs time tacking system with issues:
 
 Programed with Go ( this repotitory holds the Source code ) 
-Second version(V2.5) is out for testing purposes
+Second version(V3.0) is out for testing purposes
 
 PS
 Don't be afraid of giving feedback and report bugs 
