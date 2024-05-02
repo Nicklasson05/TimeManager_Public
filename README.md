@@ -71,7 +71,7 @@ Install C compiler:---------------------------C-COMPILER------------------------
 		   link: https://jmeubank.github.io/tdm-gcc/download/
 		2. Then run installer
 	
-Install Fyne:--------------------------------------FYNE-----------------------------------------------------
+Install Fyne:----------------------------------------FYNE-----------------------------------------------------
 	
 	Note: only install fyne after you have installed go and a C compiler
 		1. Open termial and do following
