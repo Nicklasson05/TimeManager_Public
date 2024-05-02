@@ -1,6 +1,5 @@
 # TimeManager_Public
 
-Note: This guide was made 2023/05/02
 ----------------------------------------------INSTALLATION------------------------------------------------
 
 
@@ -13,7 +12,7 @@ Install for Linux:-------------------------------LINUX--------------------------
 5. $ make
 6. $ make user-install
 
-Install for Window:-----------------------------WINDOWS---------------------------------------------------
+Install for Window:-----------------------------WINDOWS-------------------------------------------
 
 Extract content of 'TimeManager.zip' to get a working .exe file
 For system wide installation is it requierd to access Source Code
@@ -109,7 +108,7 @@ Check installation: -----------------------CHECK-INSTALLATION-------------------
 		5. $ fyne version
 		6. $ fyne
 	
-		
+		Note: This guide was made 2023/05/02
 ----------------------------------------------------------------------------------------------------------	
 	
 	
