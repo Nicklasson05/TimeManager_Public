@@ -12,7 +12,7 @@ Install for Linux:-------------------------------LINUX--------------------------
 5. $ make
 6. $ make user-install
 
-Install for Window:-------------------------------WINDOWS-------------------------------------------
+Install for Window:--------------------------WINDOWS------------------------------------------------
 
 Extract content of 'TimeManager.zip' to get a working .exe file
 For system wide installation is it requierd to access Source Code
