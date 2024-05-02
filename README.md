@@ -30,7 +30,7 @@ Access and run source code:
 		C compiler 64/bit
 		Fyne 
   
-Install Go:-------------------------------------GOLANG----------------------------------------------------
+Install Go:-------------------------------------GOLANG-------------------------------------------------------
 	
 	Note: Ubuntu users install go from website and not via snap 
 	Ubuntu:
@@ -58,7 +58,7 @@ Install Go:-------------------------------------GOLANG--------------------------
 	   	   link: https://go.dev/dl/
 	   	2. Then run installer
 	
-Install C compiler:---------------------------C-COMPILER--------------------------------------------------
+Install C compiler:---------------------------C-COMPILER----------------------------------------------------
 	
 	Ubuntu:
 		Install gcc and g++ which is a common C compiler for Ubuntu 
@@ -71,7 +71,7 @@ Install C compiler:---------------------------C-COMPILER------------------------
 		   link: https://jmeubank.github.io/tdm-gcc/download/
 		2. Then run installer
 	
-Install Fyne:------------------------------------FYNE-----------------------------------------------------
+Install Fyne:----------------------------------------FYNE-----------------------------------------------------
 	
 	Note: only install fyne after you have installed go and a C compiler
 		1. Open termial and do following
