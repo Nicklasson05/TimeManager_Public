@@ -1,9 +1,9 @@
 # TimeManager_Public
 
-
+Note: This guide was made 2023/05/02
 ----------------------------------------------INSTALLATION------------------------------------------------
 
-Note: This guide was made 2023/05/02
+
 Install for Linux:-------------------------------LINUX----------------------------------------------------
 
 1. Extract content of 'TimeManager.tar.xz' into a folder 
