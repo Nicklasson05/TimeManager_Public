@@ -1,4 +1,6 @@
 # TimeManager_Public
+Time Manager is a program designed to make is easier to log time on issues in GitLab 
+
 
 ----------------------------------------------INSTALLATION------------------------------------------------
 
