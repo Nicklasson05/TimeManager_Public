@@ -71,7 +71,7 @@ Install C compiler:---------------------------C-COMPILER------------------------
 		   link: https://jmeubank.github.io/tdm-gcc/download/
 		2. Then run installer
 	
-Install Fyne:----------------------------------------FYNE-----------------------------------------------------
+Install Fyne:--------------------------------------FYNE-----------------------------------------------------
 	
 	Note: only install fyne after you have installed go and a C compiler
 		1. Open termial and do following
@@ -94,7 +94,7 @@ Install Fyne:----------------------------------------FYNE-----------------------
 		link: https://docs.fyne.io/started/
 		
 		
-Check installation: -----------------------CHECK-INSTALLATION---------------------------------------------
+Check installation: ---------------------CHECK-INSTALLATION---------------------------------------------
 	
 	To see if everything is setup 
 	Download the TimeManager_Public repo from github
