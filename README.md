@@ -30,8 +30,8 @@ Do the Following Guide to get access to it and then return here.
 
 Access and run source code:
 	Requierd för running:
-		Golang 
-		C compiler 64/bit
+		Golang, 
+		C compiler 64/bit,
 		Fyne 
   
 Install Go:-------------------------------------GOLANG-------------------------------------------------------
