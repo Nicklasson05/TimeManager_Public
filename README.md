@@ -18,9 +18,9 @@ Install for Linux:-------------------------------LINUX--------------------------
 
 Install for Window:--------------------------WINDOWS------------------------------------------------
 
-Extract content of 'TimeManager.zip' to get a working .exe file
-For system wide installation is it requierd to access Source Code
-Do the Following Guide to get access to it and then return here
+Extract content of 'TimeManager.zip' to get a working .exe file.
+For system wide installation is it requierd to access Source Code.
+Do the Following Guide to get access to it and then return here.
 1. After following the guide you have access to fyne command tools
 2. open the source code folder in a terminal and run
 3. $ fyne install
