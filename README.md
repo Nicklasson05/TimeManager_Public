@@ -11,6 +11,8 @@ If you using your own domain to use gitlab note the following
   DON'T FORGET TO SAVE
 
 Note: This guide was made 2023/05/02
+
+
 ----------------------------------------------INSTALLATION------------------------------------------------
 
 
