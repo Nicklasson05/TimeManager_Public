@@ -9,7 +9,7 @@ To use Time Manager you need to have a Access Token with the following scope
 
 Install for Linux:-------------------------------LINUX------------------------------------------------------
 
-1. Extract content of 'TimeManager.tar.xz' into a folder 
+1. Extract content of 'TimeManager.tar.xz' into a temp folder 
 2. Open a Terminal
 3. $ cd YOUR-FOLDER
 4. $ ./configure
