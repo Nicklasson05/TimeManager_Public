@@ -3,7 +3,14 @@ Time Manager is a program designed to make is easier to log time on issues in Gi
 
 To use Time Manager you need to have a Access Token with the following scope
 * api
+* 
+If you using your own domain to use gitlab note the following
+* Make sure you are connected to the network (VPN)
+* When first starting the program make sure to enter your rest api url
+  in the setting menu up in the top right corner of the program,
+  DON'T FORGET TO SAVE
 
+Note: This guide was made 2023/05/02
 ----------------------------------------------INSTALLATION------------------------------------------------
 
 
@@ -18,6 +25,7 @@ Install for Linux:-------------------------------LINUX--------------------------
 
 Install for Window:--------------------------WINDOWS------------------------------------------------
 
+Warning!: This program gets flagged by windows defender 
 Extract content of 'TimeManager.zip' to get a working .exe file.
 For system wide installation is it requierd to access Source Code.
 Do the Following Guide to get access to it and then return here.
@@ -112,7 +120,6 @@ Check installation: ---------------------CHECK-INSTALLATION---------------------
 		5. $ fyne version
 		6. $ fyne
 	
-		Note: This guide was made 2023/05/02
 ----------------------------------------------------------------------------------------------------------	
 	
 	
