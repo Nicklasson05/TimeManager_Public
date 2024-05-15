@@ -4,7 +4,7 @@ Time Manager is a program designed to make is easier to log time on issues in Gi
 To use Time Manager you need to have a Access Token with the following scope
 * api
   
-If you using your own domain to use gitlab note the following
+If your hosting gitlab on your own note the following
 * Make sure you are connected to the network (VPN)
 * When first starting the program make sure to enter your rest api url
   in the setting menu up in the top right corner of the program,
