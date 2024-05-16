@@ -21,9 +21,8 @@ Install for Linux:-------------------------------LINUX--------------------------
 1. Extract content of 'TimeManager.tar.xz' into a temp folder 
 2. Open a Terminal
 3. $ cd YOUR-FOLDER
-4. $ ./configure
-5. $ make
-6. $ make user-install
+4. $ make
+5. $ make user-install
 
 Install for Window:--------------------------WINDOWS------------------------------------------------
 
